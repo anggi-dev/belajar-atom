@@ -1,2 +1,2 @@
 # belajar-atom
-HALO AHAHA
+ini adalah percobaan git di atom
